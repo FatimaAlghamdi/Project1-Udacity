@@ -1,0 +1,42 @@
+You've learned a lot about web development so far.
+I want you to take a moment to write down your thoughts about web development here.
+Answer the following questions:
+
+
+* What new skills have you learned?
+
+- First of all, I'm so happy to do this project. It gives me a chance to try and do what i learned in the lesson 3 and 4.
+Also, it improves my skills by applying research and experiment method. 
+I searched the internet about three new elements which are; "superscript", "horizontal rule", and "strikethrough".
+I learned for what and how to use these three elements. Then, i used them in my code to make the index.html looks exactly like the mockup image.
+------------------------------------------------------------------------------------------
+^^"Superscript": The <sup> tag defines superscript text. Superscript text appears half a character above the normal line, 
+and is sometimes rendered in a smaller font. In my code I used it for footnotes.
+------------------------------------------------------------------------------------------
+^^"Horizontal rule": The <hr> element is used to separate content. I used it in my code to make a break 
+between the content and the footnotes.
+------------------------------------------------------------------------------------------
+^^"Strikethrough": The <strike> tag defines strikethrough text.
+^^ I changed it to <s> tag to work with all html versions.
+**************************************************************
+       
+* What has been easy?
+
+- Everything has been easy.
+**************************************************************
+  
+* What has been difficult?
+
+- Nothing has been difficult.
+**************************************************************
+  
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+1- I started the project with enthusiasm to prove that i can do it since i watched and learned what presented
+in previous lessons.
+2- I believed that this project will improve and add new skills to me.
+3- I read the problem several times until I understood it. After that, I broke the problem down into small steps and
+took just one of them to start moving forward.
+4- When I found the new elements in the problem which are; "superscript", "horizontal rule", and "strikethrough" I just 
+searched and tried to know for what and how to use these three elements .
+
+Finally, I feel truly proud of all I have done in this project :).
